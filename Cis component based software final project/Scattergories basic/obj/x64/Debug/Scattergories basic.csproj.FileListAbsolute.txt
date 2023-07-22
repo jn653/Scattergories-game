@@ -1,0 +1,19 @@
+F:\Cis component based software final project\Scattergories basic\bin\x64\Debug\PlayerInfoDatabase.accdb
+F:\Cis component based software final project\Scattergories basic\bin\x64\Debug\ScattegoriesQuestionsDatabase.accdb
+F:\Cis component based software final project\Scattergories basic\bin\x64\Debug\Scattergories basic.exe.config
+F:\Cis component based software final project\Scattergories basic\bin\x64\Debug\Scattergories basic.exe
+F:\Cis component based software final project\Scattergories basic\bin\x64\Debug\Scattergories basic.pdb
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.Form1.resources
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.GameScreen.resources
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.Properties.Resources.resources
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.StartScreen.resources
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories basic.csproj.GenerateResource.cache
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories basic.csproj.CoreCompileInputs.cache
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories basic.exe
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories basic.pdb
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories basic.csproj.AssemblyReference.cache
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.LeaderBoards.resources
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.SecondRoundScreen.resources
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.playerTwoRoundScreen.resources
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.SecondRoundPlayerOne.resources
+F:\Cis component based software final project\Scattergories basic\obj\x64\Debug\Scattergories_basic.SecondRoundPlayerTwo.resources

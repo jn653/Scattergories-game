@@ -1,0 +1,26 @@
+C:\Users\shelt\source\repos\Scattergories basic\bin\Debug\Scattergories basic.exe.config
+C:\Users\shelt\source\repos\Scattergories basic\bin\Debug\Scattergories basic.exe
+C:\Users\shelt\source\repos\Scattergories basic\bin\Debug\Scattergories basic.pdb
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories basic.csproj.AssemblyReference.cache
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories_basic.Form1.resources
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories_basic.Properties.Resources.resources
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories basic.csproj.GenerateResource.cache
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories basic.csproj.CoreCompileInputs.cache
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories basic.exe
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories basic.pdb
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories_basic.StartScreen.resources
+C:\Users\shelt\source\repos\Scattergories basic\obj\Debug\Scattergories_basic.GameScreen.resources
+F:\Cis component based software final project\Scattergories basic\bin\Debug\PlayerInfoDatabase.accdb
+F:\Cis component based software final project\Scattergories basic\bin\Debug\ScattegoriesQuestionsDatabase.accdb
+F:\Cis component based software final project\Scattergories basic\bin\Debug\Scattergories basic.exe.config
+F:\Cis component based software final project\Scattergories basic\bin\Debug\Scattergories basic.exe
+F:\Cis component based software final project\Scattergories basic\bin\Debug\Scattergories basic.pdb
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories basic.csproj.AssemblyReference.cache
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories_basic.Form1.resources
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories_basic.GameScreen.resources
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories_basic.Properties.Resources.resources
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories_basic.StartScreen.resources
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories basic.csproj.GenerateResource.cache
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories basic.csproj.CoreCompileInputs.cache
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories basic.exe
+F:\Cis component based software final project\Scattergories basic\obj\Debug\Scattergories basic.pdb
